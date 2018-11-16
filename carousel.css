@@ -1,0 +1,28 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.navbar {
+	background-image: linear-gradient(#000 0%, #171717 70%, #171717 100%);
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 2rem;
+}
+
+.carousel-item > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
